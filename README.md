@@ -33,6 +33,7 @@ This project implements a **Tic Tac Toe game on a physical board**, controlled v
 
 ├── instructions.txt     # Setup & run steps (original notes)
 └── main.py              # Game control logic
+└── vars.py              # Just a static variable file, used mainly for game logic and AI
 ```
 
 ---
