@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "tictactoe-robot"
+version = "0.1.0"
+description = "TicTacToe game against AI using image recognition"
+authors = ["Diogo Ventura <diogoonair@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+gradio = "*"
+numpy = "*"
+Pillow = "*"
+opencv-python = "*"
+requests = "*"
+torch = "*"
+ultralytics = "*"
+seaborn = "*"
+
+[tool.poetry.scripts]
+start = "Externo.gradie:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

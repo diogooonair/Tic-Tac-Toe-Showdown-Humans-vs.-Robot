@@ -1,0 +1,22 @@
+##install poetry###
+pip install poetry
+###install dependecies###
+poetry install
+###start the app###
+poetry run start
+
+
+# T1
+ros2 run ur_client_library start_ursim.sh -m ur3e
+# T2
+ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur3e use_fake_hardware:=false robot_ip:=192.168.1.102 launch_rviz:=false 
+
+# T3
+cd Desktop/revised/
+
+source venv/bin/activate
+python3 -m Externo.gradie
+sudo chmod a+rw /dev/ttyACM0
+
+
+

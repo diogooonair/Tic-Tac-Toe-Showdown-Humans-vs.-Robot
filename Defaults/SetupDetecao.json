@@ -1,0 +1,10 @@
+{
+    "ativado": true,
+    "PyPoll": true,
+    "datasetname": "yolov5s",
+    "repo": "ultralytics/yolov5",
+    "ids": [
+        47,
+        49
+    ]
+}

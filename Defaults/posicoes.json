@@ -1,0 +1,178 @@
+{
+    "aruko_1": {
+        "shoulder_pan_joint": -3.32,
+        "shoulder_lift_joint": -1.64,
+        "elbow_joint": -1.64,
+        "wrist_1_joint": 4.84,
+        "wrist_2_joint": 1.56,
+        "wrist_3_joint": -4.87
+    },
+    "aruko_2": {
+        "shoulder_pan_joint": -3.29,
+        "shoulder_lift_joint": -1.95,
+        "elbow_joint": -1.25,
+        "wrist_1_joint": 4.77,
+        "wrist_2_joint": 1.56,
+        "wrist_3_joint": -4.84
+    },
+    "aruko_3": {
+        "shoulder_pan_joint": -3.66,
+        "shoulder_lift_joint": -1.62,
+        "elbow_joint": -1.66,
+        "wrist_1_joint": 4.85,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.21
+    },
+    "aruko_4": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.86,
+        "elbow_joint": -1.37,
+        "wrist_1_joint": 4.8,
+        "wrist_2_joint": 1.56,
+        "wrist_3_joint": -5.11
+    },
+    "aruko_5": {
+        "shoulder_pan_joint": -3.48,
+        "shoulder_lift_joint": -2.18,
+        "elbow_joint": -0.9,
+        "wrist_1_joint": 4.63,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.03
+    },
+    "aruko_6": {
+        "shoulder_pan_joint": -3.84,
+        "shoulder_lift_joint": -1.92,
+        "elbow_joint": -1.29,
+        "wrist_1_joint": 4.78,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.39
+    },
+    "aruko_7": {
+        "shoulder_pan_joint": -3.72,
+        "shoulder_lift_joint": -2.15,
+        "elbow_joint": -0.95,
+        "wrist_1_joint": 4.66,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.27
+    },
+    "aruko_8": {
+        "shoulder_pan_joint": -3.64,
+        "shoulder_lift_joint": -2.5,
+        "elbow_joint": -0.31,
+        "wrist_1_joint": 4.38,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.19
+    },
+    "cil_1": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.15,
+        "elbow_joint": -2.01,
+        "wrist_1_joint": 4.72,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.1
+    },
+    "cil_2": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.15,
+        "elbow_joint": -2.01,
+        "wrist_1_joint": 4.72,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.1
+    },
+    "cil_3": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.15,
+        "elbow_joint": -2.01,
+        "wrist_1_joint": 4.72,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.1
+    },
+    "cil_4": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.15,
+        "elbow_joint": -2.01,
+        "wrist_1_joint": 4.72,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.1
+    },
+    "cubo_1": {
+        "shoulder_pan_joint": -3.32,
+        "shoulder_lift_joint": -0.88,
+        "elbow_joint": -2.14,
+        "wrist_1_joint": 4.61,
+        "wrist_2_joint": 1.53,
+        "wrist_3_joint": -4.87
+    },
+    "cubo_2": {
+        "shoulder_pan_joint": -3.62,
+        "shoulder_lift_joint": -1.16,
+        "elbow_joint": -2.03,
+        "wrist_1_joint": 4.79,
+        "wrist_2_joint": 1.54,
+        "wrist_3_joint": -5.17
+    },
+    "cubo_3": {
+        "shoulder_pan_joint": -3.8,
+        "shoulder_lift_joint": -1.4,
+        "elbow_joint": -1.85,
+        "wrist_1_joint": 4.85,
+        "wrist_2_joint": 1.54,
+        "wrist_3_joint": -5.35
+    },
+    "cubo_4": {
+        "shoulder_pan_joint": -3.95,
+        "shoulder_lift_joint": -1.62,
+        "elbow_joint": -1.67,
+        "wrist_1_joint": 4.9,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.5
+    },
+    "aruko_0": {
+        "shoulder_pan_joint": -3.38,
+        "shoulder_lift_joint": -1.34,
+        "elbow_joint": -1.91,
+        "wrist_1_joint": 4.82,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -4.93
+    },
+    "cil_5": {
+        "shoulder_pan_joint": -3.56,
+        "shoulder_lift_joint": -1.15,
+        "elbow_joint": -2.01,
+        "wrist_1_joint": 4.72,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.1
+    },
+    "cubo_5": {
+        "shoulder_pan_joint": -4.06,
+        "shoulder_lift_joint": -1.84,
+        "elbow_joint": -1.41,
+        "wrist_1_joint": 4.86,
+        "wrist_2_joint": 1.55,
+        "wrist_3_joint": -5.61
+    },
+    "approach_point": {
+        "shoulder_pan_joint": -3.46,
+        "shoulder_lift_joint": -1.98,
+        "elbow_joint": -0.41,
+        "wrist_1_joint": 4.02,
+        "wrist_2_joint": 1.47,
+        "wrist_3_joint": -4.97
+    },
+    "ponto_escondido": {
+        "shoulder_pan_joint": -2.77,
+        "shoulder_lift_joint": -1.7,
+        "elbow_joint": -0.41,
+        "wrist_1_joint": 3.75,
+        "wrist_2_joint": 1.63,
+        "wrist_3_joint": -4.97
+    },
+    "ponto_arrumar": {
+        "shoulder_pan_joint": -3.43,
+        "shoulder_lift_joint": -1.16,
+        "elbow_joint": -1.35,
+        "wrist_1_joint": 4.11,
+        "wrist_2_joint": 1.53,
+        "wrist_3_joint": -4.98
+    }
+}
