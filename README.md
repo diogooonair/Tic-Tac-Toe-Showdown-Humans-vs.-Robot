@@ -44,7 +44,7 @@ This project implements a **Tic Tac Toe game on a physical board**, controlled v
 
 - [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
 - Python 3.8+
-- UR robotic arm (UR3e)
+- UR robotic arm 
 - Camera (for board detection)
 - Poetry (Python dependency manager)
 
@@ -120,6 +120,7 @@ sudo chmod a+rw /dev/ttyACM0
 ## 📷 Screenshot
 
 > ![Example of a board](./Externo/arukos.png)
+> [Youtube Demonstration video](https://youtu.be/1h4A4BJpWyk)
 
 ---
 
